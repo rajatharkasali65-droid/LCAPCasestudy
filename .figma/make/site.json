@@ -1,0 +1,11 @@
+{
+  "title": "Low Code Application Platform",
+  "description": "Creates professional UI/UX design case studies with modern typography, helping designers showcase their work clearly and effectively in portfolios.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
